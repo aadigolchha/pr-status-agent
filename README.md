@@ -26,6 +26,5 @@ npm install
 npm run dev
 ```
 
-The first run asks you to connect a model. Public repositories work as is. Set `GITHUB_TOKEN` for private ones.
 
 Built with [eve](https://eve.dev). The prompt is in `agent/instructions.md` and the one tool is in `agent/tools/get_pr_status.ts`.
