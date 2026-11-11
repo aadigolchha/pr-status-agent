@@ -19,12 +19,11 @@ Paste a GitHub pull request link and it tells you what is holding up the merge: 
 
 ## Run it
 
-Needs Node 24.
+Needs [Node 24](https://nodejs.org).
 
 ```bash
 npm install
 npm run dev
 ```
-
 
 Built with [eve](https://eve.dev). The prompt is in `agent/instructions.md` and the one tool is in `agent/tools/get_pr_status.ts`.
