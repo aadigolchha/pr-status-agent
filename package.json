@@ -1,0 +1,21 @@
+{
+  "name": "pr-status-agent",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "eve dev",
+    "typecheck": "tsc"
+  },
+  "dependencies": {
+    "ai": "^7.0.137",
+    "eve": "^1.0.0-rc.9",
+    "zod": "4.5.4"
+  },
+  "devDependencies": {
+    "@types/node": "24.x",
+    "typescript": "7.0.2"
+  },
+  "engines": {
+    "node": "24.x"
+  }
+}
