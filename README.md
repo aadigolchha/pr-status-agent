@@ -2,8 +2,6 @@
 
 Paste a GitHub pull request link and it tells you what is holding up the merge: failing checks, missing approvals or labels, and what you can fix yourself.
 
-I built it because I kept asking this about my own pull requests.
-
 ## Example
 
 **What is blocking https://github.com/milvus-io/milvus/pull/55253 ?**
